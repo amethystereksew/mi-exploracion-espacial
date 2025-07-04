@@ -21,4 +21,4 @@ const planetas = [
   }
 ];
 
-module.exports = planetas;
+module.exports = planetas;  
