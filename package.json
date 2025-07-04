@@ -1,3 +1,6 @@
-"scripts": {
-"explorar": "node index.js"
+{
+  "scripts": {
+    "explorar": "node index.js"
+  }
 }
+
